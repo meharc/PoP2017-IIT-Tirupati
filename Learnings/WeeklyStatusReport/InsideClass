@@ -7,3 +7,13 @@ Week1
 #3 Discussion regarding the change necessary from thinking how to do a procedure to what is first required by the user which is more important, was held.
 #4 Further , we discussed what paradigm is? it is a way of thinking.
 #5 Different prgramming languages, from basic including C to object oriented languages like C++,java to functional languages like R,hascal were introduced.
+
+Week 2
+
+#1 We learnt about different programming language paradigms like imperative,object-oriented,declarative,functional,multiparadigmed.
+#2 We discussed how ASTRACTION is an important concept. 
+#3 Scaling the levels of a problem is an appropriate and efficient way to approach the problem!
+#4 We learnt about how both syntax(language grammar) and semantics(expression meaning)are equally important.
+#5 We saw the entire compilation process that includes source code, preprocessing it,lexical analyzing,syntax analyzing,formation of abstract syntax tree,optimization,conversion to machine code.
+#6 We discussed how interpreter is different from a compiler interms of how easy access it has, it gets to know the errorquickly instead of going through entire program like the compiler.
+#7 Wr read about BACKUS NAUR FORM containg non-terminals,terminals and grammar.
