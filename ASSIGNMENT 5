@@ -1,0 +1,22 @@
+IMPLEMENTATION OF STACKS AND QUEUES IN SWIFT 
+
+import Glibc
+
+class Stack<T>{
+    var stack = [T]()
+    func push(value: T){
+        stack.append(value)
+    }
+    func pop()->T{
+            return stack.removeLast() 
+    }
+}
+class Queue<T>{
+    var queue=[T]()
+    func enque(value: T){
+        queue.append(value)
+    }
+    func deque()->T{
+        return queue.remove(at: 0)
+    }
+}
